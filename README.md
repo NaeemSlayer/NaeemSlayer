@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NaeemSlayer
+- 👀 I’m interested in MERN stack and AI
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on MERN and AI projects
+- 📫 How to reach me: muhammedalam150@gmail.com
